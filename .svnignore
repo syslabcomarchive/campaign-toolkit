@@ -1,0 +1,12 @@
+src
+etc
+parts
+bin
+lib
+var
+include
+develop-eggs
+.installed.cfg
+.mr.developer.cfg
+docs/Makefile
+docs/make.bat
